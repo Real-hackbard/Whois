@@ -143,5 +143,5 @@ Domainname can be either a DNS name (e.g. www.sysinternals.com) or IP address (e
 By Mark Russinovich  
 Published: December 11, 2019  
 
-Whois v1.21 : https://download.sysinternals.com/files/WhoIs.zip
+Whois v1.21 : https://learn.microsoft.com/en-us/sysinternals/downloads/whois
 
