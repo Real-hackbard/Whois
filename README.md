@@ -14,6 +14,7 @@ License     : Freeware
 
 WHOIS (pronounced as the phrase "who is") is a query and response [protocol](https://en.wikipedia.org/wiki/Communication_protocol) that is used for querying databases that store an Internet resource's registered users or assignees. These resources include domain names, IP address blocks and [autonomous systems](https://en.wikipedia.org/wiki/Autonomous_system_(Internet)), but it is also used for a wider range of other information. The protocol stores and delivers database content in a human-readable format. The current iteration of the WHOIS protocol was drafted by the Internet Society, and is documented in [RFC 3912](https://en.wikipedia.org/wiki/Request_for_Comments).
 
+### This is an example of how Whois information can be output in a Delphi application.
 ### Accept the Whois license with "Agree" before executing
 
 </br>
